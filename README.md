@@ -3,7 +3,7 @@ This is an analysis done on the dataset "Political Donations By American Sports 
 
 Some content of the notebook:
 
-# Task Details
+### Task Details
 
 American professional sports owners have contributed nearly $47 million in federal elections since 2015, according to research by ESPN in partnership with FiveThirtyEight, including $10 million to Republican causes and $1.9 million to Democratic causes so far in the 2020 election cycle.
 
