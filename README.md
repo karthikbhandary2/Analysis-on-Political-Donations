@@ -16,3 +16,10 @@ Evaluation Questions that need to be answered:
 2. Average Donations made by each owner?
 
 3. Which party received the maximum donations?
+
+### A peek at Visualizations in the notebook
+
+![Opera Snapshot_2021-12-04_203224_www kaggle com](https://user-images.githubusercontent.com/34509856/144714377-cac6078a-3e8e-4337-b874-b84e392cfdeb.png) 
+
+
+![Opera Snapshot_2021-12-04_203449_www kaggle com](https://user-images.githubusercontent.com/34509856/144714413-58effabe-6e49-48c6-a94c-82ba4b6d7601.png)
